@@ -1,1 +1,1 @@
-React Boilerplate
+Small Timer App in React. 
